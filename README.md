@@ -1,2 +1,2 @@
-# Social_network_project
-a project on social network by using python flask or django as backend stack 
+# Social Media web applicaiton
+a web based social media application using python , django
